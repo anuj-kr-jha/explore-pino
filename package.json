@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "pino": "^8.15.0",
+    "pino-mongodb": "^4.3.0",
+    "pino-pretty": "^10.2.0"
+  },
+  "name": "explore-pino",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/anuj-kr-jha/explore-pino.git",
+  "author": "Anuj Kumar Jha <anuj.kr.jha@protonmail.com>",
+  "license": "MIT",
+  "type": "module",
+  "devDependencies": {
+    "pino-tiny": "^2.2.0"
+  }
+}

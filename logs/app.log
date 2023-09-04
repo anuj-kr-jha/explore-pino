@@ -1,0 +1,6 @@
+{"level":30,"time":"2023-09-04T03:29:57.148Z","host":"archlinux","pid":91424,"data":{"user":{"id":"johndoe","name":"John Doe"}},"msg":"USER"}
+{"level":20,"time":"2023-09-04T03:29:57.149Z","host":"archlinux","pid":91424,"data":{"password":123},"msg":"USER"}
+{"level":30,"time":"2023-09-04T03:29:57.149Z","host":"archlinux","pid":91424,"ID":1,"msg":"child"}
+{"level":30,"time":"2023-09-04T03:30:29.626Z","host":"archlinux","pid":91568,"data":{"user":{"id":"johndoe","name":"John Doe"}},"msg":"USER"}
+{"level":20,"time":"2023-09-04T03:30:29.626Z","host":"archlinux","pid":91568,"data":{"password":123},"msg":"USER"}
+{"level":30,"time":"2023-09-04T03:30:29.627Z","host":"archlinux","pid":91568,"ID":1,"msg":"child"}
